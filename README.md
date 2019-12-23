@@ -1,2 +1,2 @@
-# Network_solution
-My network solution
+# Bash
+Some simple scripts
