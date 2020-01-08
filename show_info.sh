@@ -23,3 +23,4 @@ echo Время: $time >> /home/knyazev/system.log
 echo Пользователи: $users >> /home/knyazev/system.log
 echo Аптайм: $uptime >> /home/knyazev/system.log
 
+echo TEST SUBLIME
